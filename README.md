@@ -11,7 +11,7 @@
 
  
  
- ### Settings
+ ### You can set
  - Number of Questions
  - Answer time per question
  - You can add extra Questions in the list
