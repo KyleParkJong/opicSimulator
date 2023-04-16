@@ -8,8 +8,12 @@
  * url : https://m.opic.or.kr/opics/servlet/controller.opic.site.main.MainServlet?p_process=move-init-mobile&p_section=2
  
  ---
-
  
+ ### How to use
+ - Start "opic_sim_starter.py"
+ - Press start button to start
+ - The recording starts as soon as Eva finishes talking, so answer the question right away
+ - After talking, your answer will be saved as .wav file and .txt file
  
  ### You can set
  - Number of Questions
